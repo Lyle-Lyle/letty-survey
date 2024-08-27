@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# Letty survey
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![License](https://img.shields.io/github/license/Lyle-Lyle/letty-survey)
+![Stars](https://img.shields.io/github/stars/Lyle-Lyle/letty-survey)
+![Issues](https://img.shields.io/github/issues/Lyle-Lyle/letty-survey)
 
-## Available Scripts
+## Project Overview 📖
+This project is a demonstration of the work I did during my internship. It is a low-code survey creation platform, serving as a sub-module of the company's marketing platform. The primary function of this platform is to help users create surveys more easily and quickly through a visual interface. Additionally, it includes features such as saving surveys as favorites, moving surveys to the trash, and survey analytics. The collected survey data is presented in charts for easy visualization and analysis.
 
-In the project directory, you can run:
+## Features ✨
 
-### `npm start`
+- surveys management(Creat, edit, Update, delete), surveys list page, starred survey page, trash bin page
+- low-code editor, drag-and-drop components
+- statistics based on responses
+- basic user login and sign up feature
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Demo Screenshots 📸
+All the data I used in the demostration is from simulation data generator Mock.js(https://github.com/nuysoft/Mock). I also included that program in this project, feel free to check.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Home page
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/6ea703bf-6873-47e9-a2ad-8121e375883d">
 
-### `npm test`
+list of surveys
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/31722767-82e5-4755-adb6-f1cdf5678b19">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+create a survey
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/aed3f970-8544-427f-a0c3-d0bbb9507508">
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/71987d73-8857-4e6b-a7af-b4aeb63488d2">
 
-### `npm run build`
+edit a survey
+<img width="1911" alt="image" src="https://github.com/user-attachments/assets/6fd7eec0-0c16-4bff-912d-77f0f5752b4a">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+statistics
+<img width="1898" alt="image" src="https://github.com/user-attachments/assets/85cf6a13-2461-4eae-a301-8c05eab8a71a">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+starred surveys
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/cae24d7a-475b-42c3-89d4-255a2e101bbf">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Trash bin
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/cad1beba-3cb1-4281-ace9-0ff22c578c8e">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Installation & Usage 🚀
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+```
+
+### 2. Install dependencies
+
+
+```bash
+# Using npm
+npm install
+
+# Or using yarn
+yarn install
+```
+
+### 3. Run the project
+```
+npm start
+```
+
+## Contributing 🤝
+Contributions are welcome! Follow these steps:
+
+- Fork this repository
+- Create a new branch (git checkout -b feature/your-feature)
+- Commit your changes (git commit -m 'Add some feature')
+- Push to the branch (git push origin feature/your-feature)
+- Open a Pull Request
+
+
+
+## License 📄
+This project is licensed under the MIT License.
