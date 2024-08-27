@@ -5,7 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/Lyle-Lyle/letty-survey)
 
 ## Project Overview 📖
-This project is a demonstration of the work I did during my internship. It is a low-code survey creation platform, serving as a sub-module of the company's marketing platform. The primary function of this platform is to help users create surveys more easily and quickly through a visual interface. Additionally, it includes features such as saving surveys as favorites, moving surveys to the trash, and survey analytics. The collected survey data is presented in charts for easy visualization and analysis.
+This project is a demonstration of the work I did during my internship. It is a low-code survey creation platform, serving as a sub-module of the company's marketing platform. This project only shows the core features of the low-code survey editor, since the original project I got involved in the company is not open-sourced yet. The primary function of this platform is to help users create surveys more easily and quickly through a visual interface. Additionally, it includes features such as saving surveys as favorites, moving surveys to the trash, and survey analytics. The collected survey data is presented in charts for easy visualization and analysis.
 
 ## Features ✨
 
