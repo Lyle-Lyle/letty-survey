@@ -5,14 +5,47 @@
 ![Issues](https://img.shields.io/github/issues/Lyle-Lyle/letty-survey)
 
 ## Project Overview 📖
-This project is a demonstration of the work I did during my internship. It is a low-code survey creation platform, serving as a sub-module of the company's marketing platform. This project only shows the core features of the low-code survey editor, since the original project I got involved in the company is not open-sourced yet. The primary function of this platform is to help users create surveys more easily and quickly through a visual interface. Additionally, it includes features such as saving surveys as favorites, moving surveys to the trash, and survey analytics. The collected survey data is presented in charts for easy visualization and analysis.
+This project is a demonstration of the work I did during my work. It is a low-code survey creation platform, serving as a sub-module of the company's marketing platform. This project only shows the core features of the low-code survey editor. The primary function of this platform is to help users create surveys more easily and quickly through a visual interface. Additionally, it includes features such as saving surveys as favourites, moving surveys to the trash, and survey analytics. The collected survey data is presented in charts for easy visualization and analysis.
 
 ## Features ✨
 
-- surveys management(Creat, edit, Update, delete), surveys list page, starred survey page, trash bin page
-- low-code editor, drag-and-drop components
+- surveys management(Create, edit, Update, delete), surveys list page, starred survey page, trash bin page
 - statistics based on responses
-- basic user login and sign up feature
+- low-code editor, drag-and-drop components
+  - Top Tool Bar
+    - edit title
+    - delete
+    - hide
+    - lock
+    - copy & paste
+    - move up & down
+    - undo & reset
+    - save & publish
+
+Left panel:
+- components list
+- Drag-and-Drop compoents
+- Layers list
+- Drag-and-Drop Sorting
+- double click to edit
+- hide
+- lock
+
+Canvas:
+Y-Axis Scrolling
+Drag-and-Drop Sorting
+shortcuts
+  ○ delete backspace
+  ○ up
+  ○ down
+  ○ c + c, v
+  ○ c + z, c + s + z
+  ○ c + s
+
+right panel:
+- edit properties
+- settings
+
 
 ## Demo Screenshots 📸
 All the data I used in the demostration is from simulation data generator Mock.js(https://github.com/nuysoft/Mock). I also included that program in this project, feel free to check.
