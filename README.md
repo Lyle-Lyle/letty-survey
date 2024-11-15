@@ -32,15 +32,15 @@ Left panel:
 - lock
 
 Canvas:
-Y-Axis Scrolling
-Drag-and-Drop Sorting
-shortcuts
-  ○ delete backspace
-  ○ up
-  ○ down
-  ○ c + c, v
-  ○ c + z, c + s + z
-  ○ c + s
+- Y-Axis Scrolling
+- Drag-and-Drop Sorting
+- shortcuts
+  - delete backspace
+  - up
+  - down
+  - c + c, v
+  - c + z, c + s + z
+  - c + s
 
 right panel:
 - edit properties
